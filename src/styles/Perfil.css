@@ -1,0 +1,38 @@
+.perfil-container{
+    width: 1170px;
+    margin: 10px 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    background-color: #d4f5d1; 
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+    padding: 1rem;border-radius: 20px;
+}
+
+
+.perfil-img{
+    height: 200px;
+    width: 200px;
+    border-radius: 40px;
+    border: 1px solid black;
+    margin: 1rem;
+}
+.person-container{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+.info-perfil{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    line-height: 1rem;
+}
+
+.cargo-perfil{
+    font-size: qrem;
+}
+.resena-perfil{
+    font-size: 1rem;
+    text-align: left;
+}
